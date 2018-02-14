@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="Index.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>XL In Cell Grid</title>
+<!-- InstanceEndEditable -->
+<link href="../twoColLiqLtHdr.css" rel="stylesheet" type="text/css" /><!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.twoColLiqLtHdr #sidebar1 { padding-top: 30px; }
+.twoColLiqLtHdr #mainContent { zoom: 1; padding-top: 15px; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="../SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body class="twoColLiqLtHdr">
+
+<div id="container"> 
+  <div id="header">
+    <h1>XL In Cell Grid - Excel Addin</h1>
+  <!-- end #header --> </div>
+  <div id="sidebar1">
+    <ul id="MenuBar1" class="MenuBarVertical">
+      <li><a href="http://xlflexgrid.com/">Home</a></li>
+      <li><a href="../Contact.html">Contact</a></li>
+      <li><a href="../About.html">About</a>      </li>
+</ul>
+    <h3>&nbsp;</h3>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+  <!-- end #sidebar1 --></div>
+  <div id="mainContent">
+    <!-- InstanceBeginEditable name="Page Content" -->
+  <!-- TemplateBeginEditable name="Image Content" -->
+  <h1><img src="../images/grid_image.JPG" width="828" height="227" /></h1>
+  <!-- end #mainContent -->
+  <!-- TemplateEndEditable -->
+  <h1> In Cell Grid for Microsoft Excel</h1>
+  <p>The <strong>XLInCellGrid.xla(m)</strong> is an Excel Add-In that allows the user to create very sofisticated Grid reports  directly in the cells - ranges, i.e. no frames or dialogs.</p>
+<p>&nbsp;</p>
+  <p> • <a href="../Downloads/XLInCellGrid_1997_2003.zip"><strong>Download  XLInCellGrid.xla</strong></a> <strong>  (Ver. 4.4)</strong> - <strong>Excel 1997 - 2003</strong></p>
+  <p>• <a href="../Downloads/XLInCellGrid_2007_2010.zip"><strong>Download  XLInCellGrid.xlam</strong></a> <strong>(Ver. 8.3)</strong> - <strong>Excel 2007 - 2010</strong></p>
+  <p>&nbsp;</p>
+  <p> • <a href="../Downloads/XLInCellGrid_Demo.htm" title="Flash Grid Demo">	Play Flash Grid Demo</a> </p>
+  <p>&nbsp;</p>
+<h2>Features</h2>
+  <p>• Summarize  data using customized or built in Excel Formulas</p>
+  <p>• Explore data by expanding rows or sorting with a simple double click</p>
+  <p>• All functionality is local to VBA Excel, not 3rd party applications</p>
+  <p>&nbsp;</p>
+  <!-- end #mainContent -->
+<!-- InstanceEndEditable --></div>
+	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat" />
+  <div id="footer">
+    <p>&copy; XLFlexGrid.com (XLInCellGrid) 2011</p>
+  <!-- end #footer --></div>
+<!-- end #container --></div>
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</body>
+<!-- InstanceEnd --></html>
